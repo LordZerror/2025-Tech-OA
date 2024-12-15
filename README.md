@@ -1,31 +1,6 @@
-# 2025 Tech Internship/Fulltime OAs
-
-⭐️ This board is aiming to help you centralize the Online Assessments from different companies. It is updated constantly to make sure you have the most update to date OAs.
-
-🙏 If you found this repo helpful, we would appreciate a star. It takes us a big effort to keep the OAs up to date 😳
-
-🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
-
-📝 Accenture, Adobe, Agoda, Akuna, Alarm.com, Amazon, Arista Networks, Atlassian, Barclays, Blackrock, BNP, Braze, BNY Mellon, Canva, Capital One, Cisco, Citadel, Codeium, Commvault, Confluent, Cvent, Databricks, Deutsche Bank, DoorDash, Eat Club, Epam, Expedia, FactSet, Flexport, GE Vernova, Geneva Trading, General Motors, Goldman Sachs, Google, Hudson River Trading, Hyper Verge, IBM, IMC, Infosys, Intuit, IXL Learning, Jane Street, JP Morgan, LinkedIn, Mathworks, Meta, Micro1, Microsoft, Moveworks, Nutanix, Observer.AI, Onix, OpenAI, Optiver, Oracle, Palantir, Patreon, Paypal, Quora, Roblox, Rubrik, Rurik, Salesforce, Samsung, ServiceNow, Sig, Snowflake, Sofi, Squarepoint, Stripe, ThoughtSpot, TikTok, Toshiba, Trade Desk, Trend Micro, Twilio, Two Sigma, Walmart, Wayfair, Walleye Capital, Wells Fargo, Wolverine Trading, Xperi, ZoloStays, Zolando, ZipRecruiter, Zscaler.
- 
---- 
-<div align="center">
-	<h3>🤘 Join the community for more OA updates 😎</h3>
-  <div>
-      <a href="https://discord.gg/kSbWpSGUTH">
-      <img src="https://i.imgur.com/glICka0.png" width="300" alt="Email">
-      </a>
-  </div> 
-</div>
-
----
-
-[⬇️ Jump to bottom ⬇️](https://github.com/perixtar/2024-Tech-OA#bottom)
-
-
-| Company | OA Question | Practice (Beta) | Uploaded Time |
-| --- | --- | --- | --- |
-| Amazon | [Get Min Value](https://www.fastprep.io/problems/amazon-get-minimum-value) | <a href="https://www.fastprep.io/problems/amazon-get-minimum-value"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 11, 2024 |
+| Company | OA Question | Practice (Beta) | Uploaded Time | Completed |
+| --- | --- | --- | --- | --- |
+| Amazon | [Get Min Value](https://www.fastprep.io/problems/amazon-get-minimum-value) | <a href="https://www.fastprep.io/problems/amazon-get-minimum-value"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 11, 2024 | :heavy_check_mark: |
 | Amazon | [Get Max Skill Sum](https://www.fastprep.io/problems/amazon-get-max-skill-sum) | <a href="https://www.fastprep.io/problems/amazon-get-max-skill-sum"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 11, 2024 |
 | Amazon | [Count Distinct Categories](https://www.fastprep.io/problems/amazon-count-distinct-categories) | <a href="https://www.fastprep.io/problems/amazon-count-distinct-categories"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 11, 2024 |
 | Amazon | [Find Number](https://www.fastprep.io/problems/amazon-find-number) | <a href="https://www.fastprep.io/problems/amazon-find-number"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 10, 2024 |
